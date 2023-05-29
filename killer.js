@@ -1,4 +1,5 @@
 "use strict";
+//noch nicht fertig
 
 function killer(sispectInfo, dead) {
   for (let index = 0; index < dead.length; index++) {
