@@ -36,3 +36,4 @@ likeOrDislike([Like, Dislike, Dislike]); //= Nothing
 */
 console.log(likeOrDislike(["Dislike"]));
 console.log(likeOrDislike(["Like", "Like"]));
+console.log();
